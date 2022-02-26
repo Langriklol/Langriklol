@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flangriklol%2F&count_bg=%230090FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Langriklol's GitHub stats](https://github-readme-stats.vercel.app/api?username=langriklol&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![](https://github.com/langriklol/github-stats/blob/master/generated/languages.svg) [![Langriklol's github activity graph](https://activity-graph.herokuapp.com/graph?username=langriklol&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github.com/langriklol/github-stats/blob/master/generated/overview.svg) ![](https://github.com/langriklol/github-stats/blob/master/generated/languages.svg) [![Langriklol's github activity graph](https://activity-graph.herokuapp.com/graph?username=langriklol&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Langriklol/Langriklol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
